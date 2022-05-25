@@ -1,6 +1,7 @@
 body {
     display: flex;
     font-family: 'Roboto', sans-serif;
+    margin: 0px;
 }
 
 .header,
