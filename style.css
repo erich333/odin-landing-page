@@ -1,0 +1,36 @@
+body {
+    display: flex;
+    font-family: sans-serif;
+}
+
+.header,
+.footer {
+    background-color: #1F2937;
+}
+
+.logo {
+    font-size: 24px;
+    font-weight: 800;
+    color: #F9FAF8;
+
+}
+
+.header {
+    
+}
+
+.info-box {
+
+}
+
+.quote-box {
+    background-color: #E5E7EB;
+}
+
+.signup-box {
+
+}
+
+.footer {
+
+}
