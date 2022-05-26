@@ -44,6 +44,17 @@ body {
     background-color: #E5E7EB;
 }
 
+.quote-box .quote {
+    font-style: italic;
+    font-size: 36px;
+    font-weight: 300;
+}
+
+.quote-box .attribution {
+    font-weight: 700;
+    font-size: 18px;
+}
+
 .signup-box {
 
 }
