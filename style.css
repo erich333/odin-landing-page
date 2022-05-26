@@ -8,22 +8,33 @@ body {
 .header,
 .footer {
     background-color: #1F2937;
+    color: #E5E7EB;
+    font-size: 18px;
 }
 
 .logo {
     font-size: 24px;
     font-weight: 800;
     color: #F9FAF8;
-
-}
-
-.header a {
     text-decoration: none;
 }
 
 .header ul {
     list-style-type: none;
 }
+
+.header .title-text {
+    font-size: 48px;
+    font-weight: 900;
+    color:#F9FAF8;
+}
+
+.header li a {
+    text-decoration: none;
+    color: #E5E7EB;
+}
+
+
 
 .info-box {
 
