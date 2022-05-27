@@ -83,6 +83,8 @@ button {
 }
 
 .info-box {
+    display: flex;
+    flex-direction: column;
     padding: 35px 150px 100px;
 }
 
@@ -99,10 +101,17 @@ button {
     gap: 40px;
 }
 
+.info-box .card {
+    flex: 1 1 auto;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
 .image-holder {
     flex: 1 0 auto;
-    height: 100px;
-    width: 100px;
+    height: 125px;
+    width: 125px;
     align-self: center;
     border-style: solid;
     border-color: #3882F6;
@@ -110,11 +119,6 @@ button {
 
 }
 
-.info-box .card {
-    flex: 1 1 auto;
-    display: flex;
-    flex-direction: column;
-}
 
 .quote-box {
     background-color: #E5E7EB;
