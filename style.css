@@ -48,6 +48,7 @@ button {
 
 .header-body {
     display: flex;
+    gap: 50px;
 }
 
 .header-body .left-pane {
