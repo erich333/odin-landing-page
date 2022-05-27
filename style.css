@@ -86,6 +86,13 @@ button {
     padding: 35px 150px 100px;
 }
 
+.info-box .title {
+    text-align: center;
+    color: #1F2937;
+    font-weight: 900;
+    font-size: 36px;
+}
+
 .quote-box {
     background-color: #E5E7EB;
     padding: 100px 150px 75px 150px;
