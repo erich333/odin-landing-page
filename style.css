@@ -88,6 +88,7 @@ button {
 
 .quote-box {
     background-color: #E5E7EB;
+    padding: 100px 150px 75px 150px;
 }
 
 .quote-box .quote {
@@ -99,6 +100,7 @@ button {
 .quote-box .attribution {
     font-weight: 700;
     font-size: 18px;
+    text-align: end;
 }
 
 .signup-box {
