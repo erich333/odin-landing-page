@@ -104,5 +104,9 @@ button {
 }
 
 .signup-box {
-
+    display: flex;
+    background-color: #3882F6;
+    margin: 50px 100px;
+    border-radius: 10px;
+    padding: 25px 50px;
 }
