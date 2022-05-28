@@ -5,6 +5,9 @@ body {
     margin: 0px;
 }
 
+img {
+    max-width:100%;
+}
 
 .header,
 .footer {
@@ -58,7 +61,6 @@ button {
 .header-body .right-pane {
     display: flex;
     flex: 1 1 50%;
-    background-color: #595864;
     justify-content: center;
     align-items: center;
 }
