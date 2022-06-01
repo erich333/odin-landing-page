@@ -11,7 +11,7 @@ img {
 
 .header,
 .footer {
-    background-color: #1F2937;
+    background-color: #30732b;
     color: #E5E7EB;
     font-size: 18px;
 }
@@ -32,7 +32,7 @@ img {
 }
 
 button {
-    background-color: #3882F6;
+    background-color: #946326;
     color: #F9FAF8;
     border-radius: 10px;
     border-style: none;
@@ -116,7 +116,7 @@ button {
     width: 125px;
     align-self: center;
     border-style: solid;
-    border-color: #3882F6;
+    border-color: #946326;
     border-radius: 10px;
 
 }
@@ -141,7 +141,7 @@ button {
 
 .signup-box {
     display: flex;
-    background-color: #3882F6;
+    background-color: #968672;
     color:#E5E7EB;
     font-size: 18px;
     margin: 50px 100px;
